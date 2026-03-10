@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thomas Weigl
+# 👋 Hi, I'm Thomas
 
 💻 Here, I share projects I’ve worked on as well as things I build in my free time.
 
