@@ -25,6 +25,7 @@
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🛠 Tools & Technologies
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-basic-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -40,7 +41,7 @@
 
 ## 🌐 Connect With Me
 
-🔗 LinkedIn: https://linkedin.com/in/YOUR_LINK  
+🔗 LinkedIn: ![Linked In](https://www.linkedin.com/in/thomas-weigl-8a2567342/) 
 
 <!--
 **Thomas-Weigl/Thomas-Weigl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
