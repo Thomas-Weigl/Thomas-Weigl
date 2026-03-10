@@ -7,7 +7,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 B.Sc. Computer Science — Aalen University  
-- 🇩🇪 Based in Germany  
+- 🇩🇪 I'm 19 years old and come from Germany 
 - 🧠 Interested in software development, system design and modern technologies especially user-interfaces
 - 📚 Currently expanding my knowledge in React, TypeScript, Vite, and Tailwind CSS as well as Python and Java
 
