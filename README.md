@@ -35,13 +35,13 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thomas-Weigl&show_icons=true&theme=github_dark)
 
 ---
 
 ## 🌐 Connect With Me
 
-🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas%20Weigl-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-weigl-8a2567342/)
+🔗 [LinkedIn](https://www.linkedin.com/in/thomas-weigl-8a2567342/)
 
 <!--
 **Thomas-Weigl/Thomas-Weigl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
