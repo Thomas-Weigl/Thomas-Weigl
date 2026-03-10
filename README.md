@@ -41,7 +41,7 @@
 
 ## 🌐 Connect With Me
 
-🔗 LinkedIn: ![Linked In](https://www.linkedin.com/in/thomas-weigl-8a2567342/) 
+🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas%20Weigl-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-weigl-8a2567342/)
 
 <!--
 **Thomas-Weigl/Thomas-Weigl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
